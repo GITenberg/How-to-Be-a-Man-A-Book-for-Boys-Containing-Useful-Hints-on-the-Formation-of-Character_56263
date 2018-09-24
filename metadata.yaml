@@ -1,5 +1,8 @@
 _repo: How-to-Be-a-Man-A-Book-for-Boys-Containing-Useful-Hints-on-the-Formation-of-Character_56263
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56263-h/images/cover.jpg
 creator:
   author:
     agent_name: Newcomb, Harvey
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7710
     wikipedia: http://en.wikipedia.org/wiki/Harvey_Newcomb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56263#How-to-Be-a-Man-A-Book-for-Boys-Containing-Useful-Hints-on-the-Formation-of-Character
 gutenberg_issued: '2017-12-28'
 gutenberg_type: Text
 identifiers:
